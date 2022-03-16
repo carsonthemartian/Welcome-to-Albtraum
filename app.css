@@ -1,0 +1,31 @@
+body {
+    background: url("background.jpg");
+}
+
+#play {
+text-align: center;
+}
+
+.gameDisplay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100px;
+    height: 100px;
+    font-family: 'MedievalSharp', cursive;
+}
+
+.title {
+    position: absolute;
+    top: 40%;
+    left: 42%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 600px;
+    height: 100px;
+    font-family: 'MedievalSharp', cursive;
+    color: red;
+    font-size: 30px; 
+}
